@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="Utilities.listeners" />
+	</listeners>
+	<test name="TestValidate">
+		<classes>
+			<class name="Pages.UrlValidate" />
+		</classes>
+	</test>
+	<test thread-count="5" name="TestBooking">
+		<classes>
+			<class name="Pages.ConfirmBooking" />
+		</classes>
+	</test>
+	<test name="contactTest">
+		<classes>
+			<class name="Pages.contactSubmit" />
+		</classes>
+	</test>
+
+</suite> 

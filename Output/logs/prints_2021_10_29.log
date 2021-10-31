@@ -1,0 +1,41 @@
+15:28:38.167 [main] INFO  Pages.ConfirmBooking - Driver Initialized
+15:28:48.893 [main] INFO  Pages.ConfirmBooking - Url Loaded
+15:28:52.079 [main] INFO  Pages.ConfirmBooking - clicked on Booking Button
+15:28:52.149 [main] INFO  Pages.ConfirmBooking - Text is Displayed
+15:28:52.153 [main] INFO  Pages.ConfirmBooking - Titles Are same
+15:28:52.154 [main] INFO  Pages.ConfirmBooking - Test Verified
+15:28:52.159 [main] INFO  Pages.ConfirmBooking - Closing Browser
+15:28:52.235 [main] INFO  Pages.ConfirmBooking - Closed
+15:39:12.887 [main] INFO  Pages.ConfirmBooking - Initializing Driver
+15:39:14.489 [main] INFO  Pages.ConfirmBooking - Driver Initialized
+15:39:14.693 [main] INFO  Pages.ConfirmBooking - loading Url
+15:39:24.597 [main] INFO  Pages.ConfirmBooking - Url Loaded
+15:39:31.423 [main] INFO  Pages.ConfirmBooking - Button Clicked
+15:39:31.483 [main] INFO  Pages.ConfirmBooking - Text is Displayed
+15:39:31.488 [main] INFO  Pages.ConfirmBooking - Title are Same
+15:39:31.562 [main] INFO  Pages.ConfirmBooking - clicked on select button
+15:39:31.645 [main] INFO  Pages.ConfirmBooking - clicked next month button
+15:39:43.609 [main] INFO  Pages.ConfirmBooking - closing browser
+15:39:43.686 [main] INFO  Pages.ConfirmBooking - closed browser
+15:42:31.818 [main] INFO  Pages.ConfirmBooking - Initializing Driver
+15:42:33.498 [main] INFO  Pages.ConfirmBooking - Driver Initialized
+15:42:33.719 [main] INFO  Pages.ConfirmBooking - loading Url
+15:42:43.953 [main] INFO  Pages.ConfirmBooking - Url Loaded
+15:42:50.149 [main] INFO  Pages.ConfirmBooking - Button Clicked
+15:42:50.229 [main] INFO  Pages.ConfirmBooking - Text is Displayed
+15:42:50.236 [main] INFO  Pages.ConfirmBooking - Title are Same
+15:42:50.326 [main] INFO  Pages.ConfirmBooking - clicked on select button
+15:42:50.407 [main] INFO  Pages.ConfirmBooking - clicked next month button
+15:43:01.605 [main] INFO  Pages.ConfirmBooking - closing browser
+15:43:01.681 [main] INFO  Pages.ConfirmBooking - closed browser
+15:43:54.602 [main] INFO  Pages.ConfirmBooking - Initializing Driver
+15:43:56.234 [main] INFO  Pages.ConfirmBooking - Driver Initialized
+15:43:56.412 [main] INFO  Pages.ConfirmBooking - loading Url
+15:44:12.067 [main] INFO  Pages.ConfirmBooking - Url Loaded
+15:44:22.593 [main] INFO  Pages.ConfirmBooking - Button Clicked
+15:44:22.665 [main] INFO  Pages.ConfirmBooking - Text is Displayed
+15:44:22.670 [main] INFO  Pages.ConfirmBooking - Title are Same
+15:44:22.738 [main] INFO  Pages.ConfirmBooking - clicked on select button
+15:44:22.817 [main] INFO  Pages.ConfirmBooking - clicked next month button
+15:44:35.999 [main] INFO  Pages.ConfirmBooking - closing browser
+15:44:36.197 [main] INFO  Pages.ConfirmBooking - closed browser
